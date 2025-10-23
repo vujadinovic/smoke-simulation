@@ -34,4 +34,7 @@ $$
 $$
 </div>
 
+However, as for our laziness, we will assume no outside forces and no viscosity:
+
+
 
